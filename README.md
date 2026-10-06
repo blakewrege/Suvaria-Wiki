@@ -1,11 +1,35 @@
-# Suvaria Player Portal
+# Suvaria-Wiki — Generated Player Site
 
-The player website is published at **https://blakewrege.github.io/Suvaria-Wiki/**.
+This repository is the **generated, player-safe output** of the private [`blakewrege/Suvaria`](https://github.com/blakewrege/Suvaria) campaign repository. The live site is <https://blakewrege.github.io/Suvaria-Wiki/>.
 
-The Markdown source is intentionally flat under `docs/`; the navigation in `mkdocs.yml` supplies the player-friendly hierarchy. This repository is generated from an explicit private allowlist. Do not edit generated handouts here.
+## Ownership rule
 
-- Major campaign locations: [Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page)
-- Player website source: [`docs/`](docs/)
-- Latest indexed session: **077**
+Do not author campaign content directly in this repository. Edit the canonical private source, update its explicit publication status, and run the publisher. A later rebuild replaces the managed files here.
 
-After updating the generated source, deploy the player site with `mkdocs gh-deploy --force`.
+| Repository | Role |
+|---|---|
+| `blakewrege/Suvaria` | Private canonical source, including GM notes, drafts, and published-source Markdown |
+| `blakewrege/Suvaria-Wiki` | Public generated pages and GitHub Pages deployment |
+
+## Structure
+
+- [`docs/`](docs/) — flat generated Markdown. The hierarchy players see comes from navigation, not folders or symlinks.
+- `mkdocs.yml` — generated navigation and theme settings.
+- `requirements.txt` — pinned MkDocs dependency.
+- `site/` — ignored local build output.
+- `gh-pages` branch — deployed website output.
+
+Latest indexed session: **077**.
+
+The public site contains only entries explicitly marked `published`. Drafts and GM files remain in the private repository. Major campaign locations are also maintained on [Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page).
+
+## Maintainer workflow
+
+1. Make the authored change in the private `Suvaria` repository.
+2. Review `tools/player-handouts-manifest.json`; new pages begin as drafts.
+3. Run `tools/publish_player_handouts.py` from the private checkout.
+4. Review the diffs in both repositories.
+5. Commit and push each repository separately.
+6. From this checkout, deploy with `mkdocs gh-deploy --force`.
+
+The publisher rejects common spoiler markers, private absolute paths, and broken local links, but it cannot replace human spoiler review. Never publish a true secret temporarily: removing it later does not erase public Git history.
