@@ -19,7 +19,7 @@ After Deep Snoat's revelations and a round of questionable tattoo decisions, a b
 | **Madam Yu-Banya** | The night manager: crimson robes, towering silver hair, golden combs, and the expression of someone who has billed a thunderstorm for damages. She handles your temporary employment and insists the anonymous invitation is highly irregular. |
 | **Mihiro** | A small Mian girl in a patched green work coat, oversized wooden sandals, and a red hair cord. She knows the service passages and has already demonstrated better survival instincts than management. She will accompany you, explain chores, and point out which instructions are meant literally. |
 | **Maa and Paa — Mina and Hiro** | Mihiro's parents, currently goats while she works off their family debt. Maa inspects laundry; Paa eats paperwork. Mihiro would very much like her parents back. |
-| **Nohbody** | A black-robed, white-masked spirit whose offers of gold come with far too much attention. Mihiro says he copies the desires around him and becomes bigger and hungrier when fed. She recommends kindness, firm boundaries, and keeping your dumplings. |
+| **Nohbody** | A black-robed, white-masked spirit practicing scraps of overheard conversation. Mihiro says he copies the desires around him and becomes bigger and hungrier when fed. He seems unsure whether anyone will stay without being paid. She recommends kind company, help when he needs it, firm boundaries, and keeping your dumplings. |
 
 Bobbin is with you, looking disproportionately qualified to operate the cleaning cart. Staff have asked him to stop referring to the night as “a hostile exfoliation.”
 
