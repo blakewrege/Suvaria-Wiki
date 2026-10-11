@@ -25,9 +25,9 @@ Bobbin is with you, looking disproportionately qualified to operate the cleaning
 
 ## Collect Your Kit — Five Staff Members
 
-Each of the **five player characters** chooses **one uniform, one towel, two utility items, and one cleaning weapon or casting tool** below. Every kit also includes slippers, work gloves, a belt pouch, a red-thread focus badge, and a waterproof component sachet. Choices may repeat; the supply closet has duplicates. Bobbin and Mihiro have their own staff basics and do not take one of your five kits.
+Each of the **five player characters** receives **the same uniform and one towel**, then chooses **a funny name tag, two utility items, and one cleaning weapon or casting tool** below. Every kit also includes slippers, work gloves, a belt pouch, a red-thread focus badge, and a waterproof component sachet. Choices may repeat; the supply closet has duplicates. Bobbin and Mihiro have their own staff basics and do not take one of your five kits.
 
-| Staff slot | Uniform | Towel | Two utility items | Cleaning weapon / casting tool |
+| Staff slot | Name tag | Towel | Two utility items | Cleaning weapon / casting tool |
 |---|---|---|---|---|
 | 1 | Choose below | Issued | Choose two | Choose one |
 | 2 | Choose below | Issued | Choose two | Choose one |
@@ -39,20 +39,20 @@ These are **temporary bathhouse loans**, with no attunement. Their magic works o
 
 ## Uniforms — Dress for the Job You Fear
 
-All uniforms share the same protective rules. Their ridiculous appearance is cosmetic; pick by taste, not class. They resize for your body, wings, horns, or other inconveniently heroic anatomy.
+Everyone wears the **same jade-green wrap robe, waterproof cream apron, and rubber-duck slippers**. The apron reads **TEMPORARY STAFF — PERMANENT LIABILITY**. It resizes for your body, wings, horns, or other inconveniently heroic anatomy; the sash stays securely tied. Your only fashion choice is a name tag. Pick one below or invent your own; the title grants no extra powers or qualifications.
 
-| Uniform | Mandatory fashion incident |
+| Name tag | Fine print |
 |---|---|
-| **The Bathromancer** | A black towel robe covered in tiny embroidered skulls wearing shower caps. The hood broods even when you do not. **RAISE STANDARDS, NOT THE DEAD.** |
-| **The Sorcerer of Suds** | A shimmering robe, dragon-headed slippers, and soap bubbles that form a tiny hat whenever you cast. **BORN WITH IT. WASHED WITH IT.** |
-| **The Warlock of Warsh** | Plum silk with a contract printed on the inside hem. The care label lists its patron as **DRY CLEAN ONLY**. |
-| **The Paladin of Porcelain** | A quilted white bathrobe, shower-curtain cape, and an absurdly noble rubber-duck crest. **SMITE THE MITE.** |
-| **The Cleric of Deep Cleaning** | A blue stole embroidered with laundry symbols that resemble a demanding minor religion. **BLESS THIS MESS. THEN REMOVE IT.** |
-| **The Steam-Punk** | Waterproof apron over a robe, brass goggles, and pockets labeled **CLEAN**, **UNCLEAN**, and **LEGAL WILL NOT SAY**. |
-| **Mop Fu Master** | A yellow wrap robe and headband reading **BE LIKE SOAP**. Sleeves snap dramatically even in still air. |
-| **The Union Suit** | A striped, full-length bath onesie with a firmly secured rear flap and a badge reading **ESSENTIAL, APPARENTLY**. Includes a tiny clipboard with no authority. |
+| **The Bathromancer** | **RAISE STANDARDS, NOT THE DEAD.** |
+| **The Sorcerer of Suds** | **BORN WITH IT. WASHED WITH IT.** |
+| **The Warlock of Warsh** | **MY PATRON SAYS DRY CLEAN ONLY.** |
+| **The Paladin of Porcelain** | **SMITE THE MITE.** |
+| **The Cleric of Deep Cleaning** | **BLESS THIS MESS. THEN REMOVE IT.** |
+| **The Steam-Punk** | **LICENSED TO CARRY A BUCKET.** |
+| **Mop Fu Master** | **BE LIKE SOAP.** |
+| **Union Representative** | **ESSENTIAL, APPARENTLY. PAID, ALLEGEDLY.** |
 
-**Uniform protection:** While wearing the uniform without armor, your base **AC is 18**. Use a higher legal unarmored AC calculation if you have one; do not combine different base-AC formulas. Ordinary bonuses that normally apply still work, but the uniform provides no shield or additional armor bonus. It counts as clothing, so it does not require armor proficiency or prevent unarmored class features. Its sash will not accidentally expose you.
+**Uniform protection: AC 18. Do not add your Dexterity modifier or combine it with another base-AC calculation. The uniform cannot be further enchanted or upgraded.** Separate AC bonuses from spells or features still apply normally. It counts as clothing, requires no armor proficiency, and does not prevent unarmored class features. “Management has already enchanted it against injury, embarrassment, and requests for a raise. Two out of three is acceptable.”
 
 ## Casters — Your Magic Still Works
 
