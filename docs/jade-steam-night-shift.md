@@ -119,6 +119,8 @@ In combat, a character within **5 ft.** may use a **bonus action** to direct it 
 
 ## The Work Board
 
+![Yu-Banya and Mihiro present the five night-shift work assignments.](https://i.imgur.com/jIejiJG.png)
+
 Choose where to start. Mihiro accompanies you and Bobbin brings the cart. You are not required to finish all five jobs before an approved break or emergency reassignment.
 
 | Card | Assignment | Management's helpful advice |
