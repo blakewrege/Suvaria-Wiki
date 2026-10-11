@@ -19,7 +19,7 @@ Do not author campaign content directly in this repository. Edit the canonical p
 - `site/` — ignored local build output.
 - `gh-pages` branch — deployed website output.
 
-Latest indexed session: **077**.
+Latest indexed session: **078**.
 
 The public site contains only entries explicitly marked `published`. Drafts and GM files remain in the private repository. Major campaign locations are also maintained on [Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page).
 

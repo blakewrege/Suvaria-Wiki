@@ -6,7 +6,7 @@ The player-facing home for Suvaria: current handouts, character records, equipme
 
 ## Current Adventure
 
-- [Session 077 handouts](session-077.md) — the currently indexed session and surrounding adventure.
+- [Session 078 handouts](session-078.md) — the currently indexed session and surrounding adventure.
 - [Browse handouts by session](sessions.md) — current releases and the growing pre-077 archive.
 
 ## Characters, Equipment & Rules

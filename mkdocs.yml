@@ -67,6 +67,8 @@ nav:
           - "Kardarsha's Curds & Curios": kardarshas-curds-and-curios.md
       - "Entertainment & Excursions":
           - "Pink Pony Inn Menu & House Guide": pink-pony-inn.md
+      - "Jade Steam — Night Shift":
+          - "Jade Steam — Night-Shift Staff Kit & Work Board": jade-steam-night-shift.md
       - "Trials & Investigation":
           - "The Snoat Sheet": debate-snoat-sheet.md
           - "Session 077 Clue Cards": session-077-clue-cards.md
@@ -82,5 +84,6 @@ nav:
       - "Companions & Creatures": homebrew-companions-and-creatures.md
   - Sessions:
       - Session Index: sessions.md
+      - Session 078: session-078.md
       - Session 077: session-077.md
       - Pre-077 Archive: pre-077.md

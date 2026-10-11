@@ -18,6 +18,10 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 
 - [Pink Pony Inn Menu & House Guide](pink-pony-inn.md)
 
+## Jade Steam — Night Shift
+
+- [Jade Steam — Night-Shift Staff Kit & Work Board](jade-steam-night-shift.md)
+
 ## Trials & Investigation
 
 - [The Snoat Sheet](debate-snoat-sheet.md)
