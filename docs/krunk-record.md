@@ -1,12 +1,21 @@
 # Krunk “the Drunk” — Campaign Ledger
 
-> **Review draft.** Best-effort transcription of Krunk's handwritten level-12 sheet and item cards, received September 2026. Questionable readings are collected under **Needs Player Review** instead of being treated as settled rules.
+> **Player-facing campaign record.** Level-12 sheet and item cards, updated with player-confirmed corrections.
 
 *Half-Orc Paladin 12 — Oath of Vengeance*<br>
 **Background:** Soldier (Officer) • **Alignment:** Neutral Good • **Holy Symbol:** The White Hand<br>
-**AC:** 20 • **HP Maximum:** 107 • **Speed:** 30 ft • **Initiative:** +0<br>
+**AC:** 20 / **21 with a shield** • **HP Maximum:** 107 • **Speed:** 30 ft • **Initiative:** +0<br>
 **Proficiency Bonus:** +4 • **Spell Save DC:** 16, or **18 with Excalibur** • **Spell Attack:** +8, or **+10 with Excalibur**<br>
 **Hit Dice:** 12d10 • **Passive Perception:** 11
+
+## Armor Class
+
+| Loadout | AC | Breakdown |
+|---|:---:|---|
+| Without a shield | **20** | 18 plate + 1 Forge cleric buff + 1 Avalon |
+| With a shield | **21** | 18 plate + 1 Forge cleric buff + 2 shield |
+
+[Avalon's +1 AC](excalibur-promised-dawn.md#avalon-the-everdistant-utopia-paired-wondrous-item) applies **only while not wielding a shield**; it does not stack with the shield bonus. Both totals assume the Forge cleric buff is active. Plate does not add Dexterity to AC.
 
 ## Ability Scores
 
@@ -50,7 +59,7 @@ Krunk is proficient in Constitution saves through **Resilient**, and in Wisdom a
 | Excalibur, the Promised Dawn +2 | +10 | `1d8 + 6` one-handed or `1d10 + 6` two-handed | Versatile; once per turn against evil, add +4 radiant from Radiant Edge; see the [full Excalibur handout](excalibur-promised-dawn.md) |
 | Maul of Maelstroms +2 | +10 | `2d6 + 4` bludgeoning plus `2` lightning | Two-handed; attuned |
 | Heavy War Pick | +8 | `1d10 + 4` piercing | Confirmed homebrew heavy version |
-| Ash's Righteous Chainsaw Blade +2 | +10 | `2d6 + 6` slashing | Two-handed; attuned; see the [original item handout](ashs-righteous-chainsaw-blade.md) |
+| Ash's Righteous Chainsaw Blade +2 | +10 | `2d6 + 6` slashing | Two-handed; **not currently attuned**; see the [original item handout](ashs-righteous-chainsaw-blade.md) |
 
 Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack action.
 
@@ -68,7 +77,6 @@ Krunk uses [Club Specialization](homebrew-weapon-specializations.md#club-special
 - **Relentless Endurance.** Once per long rest, when reduced to 0 HP but not killed outright, Krunk drops to 1 HP instead.
 - **Savage Attacks.** On a critical hit with a melee weapon, roll one additional weapon damage die.
 - **Resilient (Constitution).** Krunk is proficient in Constitution saving throws.
-- **Great Weapon Master.** Before making an attack with a heavy weapon he is proficient with, Krunk may take −5 to hit for +10 damage. A critical hit or reducing a creature to 0 HP can grant a bonus-action melee attack.
 - **Great Weapon Fighting.** When Krunk rolls a 1 or 2 on a damage die for a two-handed or versatile melee weapon wielded with two hands, he may reroll that die and must use the new result.
 - **Divine Health.** Krunk is immune to disease.
 - **Lay on Hands.** Krunk has a pool of 60 HP per long rest. He may also spend 5 HP from the pool to cure one disease or neutralize one poison.
@@ -111,9 +119,11 @@ Krunk uses [Club Specialization](homebrew-weapon-specializations.md#club-special
 
 ## Current Important Equipment
 
+**Current attunement:** Excalibur and Maul of Maelstroms (offense), plus Veil of Shadows (defense). Ash's Righteous Chainsaw Blade is owned but **not attuned**; its listed magical properties are an item reference, not active attuned benefits.
+
 ### Ash's Righteous Chainsaw Blade +2
 
-*Rare, two-handed; requires attunement by a paladin*
+*Rare, two-handed; requires attunement by a paladin — not currently attuned*
 
 - Grants +2 to attack and damage rolls.
 - Deals `2d6` slashing damage before modifiers.
@@ -137,7 +147,7 @@ This magical pocket watch allows its owner to teleport back to a previously set 
 
 ### Veil of Shadows — Shield of the Void
 
-*Rare, requires attunement*
+*Rare, requires attunement — currently attuned*
 
 A large black amulet. Once per day, Krunk may use a bonus action or reaction and speak its command word—**“FUCK NO!”**—to create a lightly obscuring 10-foot aura. Until the start of his next turn, everything in the aura has resistance to all damage.
 
@@ -174,9 +184,3 @@ The following low-magic and mundane equipment is transcribed from the current ch
 
 | Owed to / by | Terms | Status | Notes |
 |---|---|---|---|
-
-## Needs Player Review
-
-- **Spell figures:** Krunk's base spell save DC **16** and spell attack **+8** are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page. While using Excalibur's spellcasting enhancement, they become **DC 18** and **+10**.
-- **Current HP:** The sheet appears to show 69 current HP, but that is a changing session value and is intentionally not recorded as a permanent statistic.
-- **Kara Vesh (formerly Black Gauntlet):** [Review the separate gauntlet record](black-gauntlet.md). Excalibur may have destroyed it. Confirm whether it still exists before returning any of its preserved or proposed abilities to his active equipment.

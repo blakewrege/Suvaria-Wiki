@@ -4,12 +4,19 @@
 
 *Variant Human • Fiend Warlock 12*<br>
 **Full name:** “Heise” Chao Ping • **Alignment:** Chaotic Neutral • **Background:** Natural Leader<br>
-**AC:** 16 (studded leather) • **HP:** 101 • **Hit Dice:** 12d8 • **Proficiency:** +4<br>
+**AC:** 16 / **18 with a shield** • **HP:** 101 • **Hit Dice:** 12d8 • **Proficiency:** +4<br>
 **Initiative:** +4 • **Speed:** Base speed not supplied; Speedy adds 10 ft.<br>
 **Spell save DC:** 17 • **Spell attack:** +9 • **Pact Magic:** Three 5th-level slots<br>
 **Mystic Arcanum:** Eyebite (6th level), one use • **Currency:** 285 gp
 
 Identity details carry forward from the earlier record. Initiative and spell figures are calculated from the updated ability scores; the old monk statistics and features are no longer active on this page.
+
+## Armor Class
+
+| Loadout | AC | Breakdown |
+|---|:---:|---|
+| Without a shield | **16** | 12 studded leather + 4 Dexterity |
+| With a shield | **18** | 12 studded leather + 4 Dexterity + 2 shield |
 
 ## Ability Scores
 
@@ -51,7 +58,7 @@ The sheet notes these adjustments as part of the listed scores: Constitution +1 
 | Liáo Xi — bow | +9 | 1d8 + 5 piercing plus 1d6 fire |
 | Eldritch Blast — three beams | +9 | 1d10 + 5 per beam |
 
-The sword totals use **Dexterity +4, proficiency +4, and its +1 magical bonus**, matching the new sheet. Its quick attack line instead records an extra 1d6 necrotic/radiant; see the review note before combining this with the weapon's fire damage or Lifedrinker. Eldritch Blast's stray “+8” is also awaiting clarification.
+The sword totals use **Dexterity +4, proficiency +4, and its +1 magical bonus**, matching the new sheet. Its quick attack line instead records an extra 1d6 necrotic/radiant; see the review note before combining this with the weapon's fire damage or Lifedrinker.
 
 ## Eldritch Invocations — Owned
 
@@ -163,7 +170,6 @@ Copied from the supplied notes without adding conclusions:
 ## Needs Player Review
 
 - **Liáo Xi and Lifedrinker:** Quick attacks show +1d6 necrotic/radiant, but the full weapon description still says +1d6 fire. Confirm whether the former is Lifedrinker (once per turn), a replacement weapon effect, or something else. Lifedrinker's “recover 1 HD + Con” also needs clarification, including Hit Die expenditure.
-- **Eldritch Blast:** The original line reads “EB +9 x3 +8 1d10+5.” The unexplained **+8** has not been turned into a new bonus.
 - **Feat:** “Eldritch Adept (Quicken, Heightened)” is preserved as written; confirm the feat name and the resource/recharge for those options.
 - **Banishment:** Listed under level 5 in the source. Confirm whether that refers to the casting slot rather than the spell's level.
 - **Bracelet:** The new sheet says “+15 ft movement in any direction for a round, 1/short rest.” The shared campaign handout instead says **20-ft. airborne double jump, once per long rest**. The central rule has not been changed without confirmation.
