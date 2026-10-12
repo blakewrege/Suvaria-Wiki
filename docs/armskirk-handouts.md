@@ -21,6 +21,7 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 ## Jade Steam — Night Shift
 
 - [Jade Steam — Night-Shift Staff Kit & Work Board](jade-steam-night-shift.md)
+- [Jade Steam — Checkout Gifts & Night Wages](jade-steam-checkout-gifts.md)
 
 ## Trials & Investigation
 
