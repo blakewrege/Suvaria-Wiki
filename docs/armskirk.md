@@ -15,6 +15,21 @@ Armskirk is the current capital of Leonia, though it does not own the title. The
 
 The city is a mixture of grand civic halls, rain-dark stone, busy markets, theaters, old bridges, rail yards, lantern courts, and neighborhoods built by generations of arrivals from across Suvaria. Blue-and-gold lion banners hang over the broad avenues. Beneath them, merchants sell food, newspapers shout about politics, and citizens explain—with diagrams—how they could run the republic better.
 
+## A Brief History of Royal Inconvenience
+
+Armskirk began roughly 430 years ago as a fortified ferry-market. Its merchant-princes gradually turned harbor tolls into hereditary privileges, then declared themselves kings of the city and surrounding countryside. **House Toodor** took its name from a fortress with two entrances, both taxable. This was the **Crown of Armskirk**, not a Kingdom of Leonia; Torath, Corvos, and Mian Lung were not its possessions.
+
+Among its most notorious rulers, in order:
+
+- **Henry the Ate** married **sixty wives**, split from the local temple when it refused another annulment, and declared himself Supreme Head of the Church of Getting His Own Way. His reign produced magnificent armor, gun-maces, and a codpiece the museum labels *“a substantial claim with limited supporting evidence.”* His wives' lives now inspire **SIXTY**, a rotating musical revue: six queens per performance, ten casts, and not one song about what a difficult time Henry had.
+- **Queen Elizadebt** expanded maritime trade, sponsored privateers, and maintained that stealing a ship became foreign policy when the flag was large enough. Many royal treasures survive at the Loo-vre, alongside increasingly specific letters requesting their return.
+- **George the Taxing** levied duties on tea, hearths, windows, and shields. During the **Armskirk Tea Incident**, protesters tipped royal tea into the harbor; the palace announced that this constituted a taxable infusion. The dock strike that followed proved harder to invoice.
+- **Chaz the First and Last** inherited the unrest, dissolved the city's elected council, and tried to collect taxes at swordpoint. After a civil war, a civic tribunal convicted him of waging war against his own people. He was publicly beheaded roughly **220 years ago**, ending the monarchy permanently. The official account calls it **the Severance of the Crown**. The souvenir mugs say **A CUT ABOVE THE REST**.
+
+Armskirk became a free city; **the monarchy never returned**. Roughly twenty years later, it joined the already-independent free cities of Torath and Corvos in the protection pact that became the [Republic of Leonia](republic-of-leonia.md). Mian Lung remained the separate Jade Kingdom, allied with Leonia later, and became a province roughly a century ago. Armskirk's kings belong to its local past, not Leonia's national succession.
+
+The royal **Ivory Tower** now houses a public armory museum and **Plate Expectations**. The old palace passed through a merchant prince's hands before becoming **Le Grand Loo-vre**. Citizens abolished hereditary government but kept the buildings, the shiny things, and the admission charges.
+
 ## The Capital at Work
 
 The **Hall of Accord** is both Leonia's government complex and its grandest political stage. Public debates take place in its amphitheater before the Audience, while the Barker Circle, Jugglers, Stagehands, clerks, guards, and archivists keep the republic moving in the rooms behind it.
@@ -38,7 +53,9 @@ For practical navigation, imagine Armskirk arranged around the **Grand Promenade
 - **The Grand Library of Armskirk** holds legal archives, old newspapers, maps, and librarians who consider loud conversation a form of treason.
 - **Saint Dacius Civic Hospital** crowns Hospital Hill with marble steps, stained glass, skilled healers, and enough charity galas to make suffering feel briefly well-funded.
 - **The Trial Champions' Gallery** displays famous competitors' weapons, costumes, and portraits. Some champions appear to have defeated perspective itself.
+- **Le Grand Loo-vre — Museum of Fine Arts and Questionable Acquisitions** fills a former palace on the Grand Promenade beneath an extravagant glass pyramid. Its treasures include the **Mona Lizard** and the **Venus de Missing-Arms**. Culture from every corner of the world; several corners would like it back.
 - **The Old Sewer Museum** explains the proud history of municipal drainage. Its gift shop sells tiny plungers, proving civilization was worth the effort.
+- **The Ivory Tower and Plate Expectations** — The old royal keep by the Old Harbor now combines an armory museum with a working armor-and-weapons shop run by dwarven armorer **Charles Thickens** and apprentice **Oliver Twistlock**. Come for a shield, stay for Henry the Ate's sixty-marriage scandal and aggressively overengineered codpiece. **“Protection for the masses. Padding for the classes.”**
 - **Putty Nutty Caverns**, a **Wetwood's Brokeback Outfitters Family Adventure** just beyond the city, offers soft clay passages, glittering mineral pockets, natural slides, souvenir helmets, and the coveted **“I Got Putty Nutty!”** completion ribbon. It has absolutely no connection to the thoroughly discredited rumor that a visitor died there. The tour company won the court case, and courts are famously never wrong.
 
 ## A Few Useful Establishments

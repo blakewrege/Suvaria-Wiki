@@ -95,6 +95,8 @@ Mian Lung is presently facing a wave of fires and disappearances blamed on the *
 
 ## Recent History
 
+Before the alliance, Armskirk had already abolished its own monarchy. **House Toodor's Crown of Armskirk** ruled only that city and its surrounding territory, never a united Leonia. Roughly **220 years ago**, civil war ended with the trial and execution of **Chaz the First and Last**; the monarchy was never restored. The resulting free city spent twenty years governing itself before joining the other founders. Its delegates arrived with particularly firm views about hereditary power and a rather pointed definition of *term limits*. [Armskirk's royal history](armskirk.md#a-brief-history-of-royal-inconvenience) survives in its museums, armor shops, and sixty queens' worth of theatrical grievances.
+
 The original Leonian pact was forged by Armskirk, Torath, and Corvos about two hundred years ago. Mian Lung was not a founding member. After the republic already existed, the independent Jade Kingdom signed a separate mutual-defense treaty with Leonia and remained a sovereign treaty partner for generations.
 
 Roughly one hundred years ago, the **Jade-Lion Concord** made Mian Lung a full province of Leonia. The Concord preserved the office of Chancellor and a place for Mian Lung in national government while formalizing military, tax, and food obligations. The fact that everyone still argues about which side gave up more is considered proof of a balanced treaty.
