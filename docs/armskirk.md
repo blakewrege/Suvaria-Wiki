@@ -28,7 +28,7 @@ Among its most notorious rulers, in order:
 
 Armskirk became a free city; **the monarchy never returned**. Roughly twenty years later, it joined the already-independent free cities of Torath and Corvos in the protection pact that became the [Republic of Leonia](republic-of-leonia.md). Mian Lung remained the separate Jade Kingdom, allied with Leonia later, and became a province roughly a century ago. Armskirk's kings belong to its local past, not Leonia's national succession.
 
-The royal **Ivory Tower** now houses a public armory museum and **Plate Expectations**. The old palace passed through a merchant prince's hands before becoming **Le Grand Loo-vre**. Citizens abolished hereditary government but kept the buildings, the shiny things, and the admission charges.
+The royal **Ivory Tower** now operates as an armor-and-weapons shop with a public armory museum upstairs, all under the tower's name. The old palace passed through a merchant prince's hands before becoming **Le Grand Loo-vre**. Citizens abolished hereditary government but kept the buildings, the shiny things, and the admission charges.
 
 ## The Capital at Work
 
@@ -55,7 +55,7 @@ For practical navigation, imagine Armskirk arranged around the **Grand Promenade
 - **The Trial Champions' Gallery** displays famous competitors' weapons, costumes, and portraits. Some champions appear to have defeated perspective itself.
 - **Le Grand Loo-vre — Museum of Fine Arts and Questionable Acquisitions** fills a former palace on the Grand Promenade beneath an extravagant glass pyramid. Its treasures include the **Mona Lizard** and the **Venus de Missing-Arms**. Culture from every corner of the world; several corners would like it back.
 - **The Old Sewer Museum** explains the proud history of municipal drainage. Its gift shop sells tiny plungers, proving civilization was worth the effort.
-- **The Ivory Tower and Plate Expectations** — The old royal keep by the Old Harbor now combines an armory museum with a working armor-and-weapons shop run by dwarven armorer **Charles Thickens** and apprentice **Oliver Twistlock**. Come for a shield, stay for Henry the Ate's sixty-marriage scandal and aggressively overengineered codpiece. **“Protection for the masses. Padding for the classes.”**
+- **The Ivory Tower** — The old royal keep by the Old Harbor now combines an armory museum with a working armor-and-weapons shop run by dwarven armorer **Charles Thickens** and apprentice **Oliver Twistlock**. Come for a shield, stay for Henry the Ate's sixty-marriage scandal and aggressively overengineered codpiece. **“Protection for the masses. Padding for the classes.”**
 - **Putty Nutty Caverns**, a **Wetwood's Brokeback Outfitters Family Adventure** just beyond the city, offers soft clay passages, glittering mineral pockets, natural slides, souvenir helmets, and the coveted **“I Got Putty Nutty!”** completion ribbon. It has absolutely no connection to the thoroughly discredited rumor that a visitor died there. The tour company won the court case, and courts are famously never wrong.
 
 ## A Few Useful Establishments
