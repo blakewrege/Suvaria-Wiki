@@ -21,11 +21,14 @@ Do not author campaign content directly in this repository. Edit the canonical p
 
 Latest indexed session: **078**.
 
+This is the latest published session, not necessarily the next scheduled game. Upcoming-session preparation and unfinished work live in the private repository's [WIP.md](https://github.com/blakewrege/Suvaria/blob/main/WIP.md) and session indexes (GM access required). Keep task handoffs and spoilers there, not in this public repository.
+
 The public site contains only entries explicitly marked `published`. Drafts and GM files remain in the private repository. Major campaign locations are also maintained on [Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page).
 
 ## Maintainer workflow
 
 1. Make the authored change in the private `Suvaria` repository.
+   Read its README, Codex.md and WIP.md for source ownership and unfinished work. Before rebuilding, check this public checkout for local edits and reconcile them with the private source; do not overwrite uncommitted work.
 2. Review `tools/player-handouts-manifest.json`; new pages begin as drafts.
 3. Run `tools/publish_player_handouts.py` from the private checkout.
 4. Review the diffs in both repositories.
